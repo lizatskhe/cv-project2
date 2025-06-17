@@ -10,9 +10,9 @@ This project explores improving the robustness of deepfake detectors using **gra
 - Implement and assess **gradient regularization**.
 
 ## 📦 Dataset
-Due to the class imbalance present in the DFFD dataset, we instead extracted video frames from the FaceForensics++ dataset and created a more balanced dataset by combining real and fake samples.
+Due to the class imbalance present in the DFFD dataset, we extracted frames from the FaceForensics++ dataset and created a more balanced dataset by combining images from both datasets.
 
-The dataset can be downloaded from the following link: 
+The combined dataset can be downloaded from the following link: 
 
 https://drive.google.com/file/d/16mWUoUlmtfPbjMl7lCmlURSH-qmGe1uN/view?usp=sharing.
 
