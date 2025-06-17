@@ -53,4 +53,4 @@ https://drive.google.com/file/d/16mWUoUlmtfPbjMl7lCmlURSH-qmGe1uN/view?usp=shari
 ```
 ## Authors
 
-Najeh Alhalawani (2223737) & Yelizaveta Tskhe (224260)
+Najeh Alhalawani (2223737) & Yelizaveta Tskhe (2224260)
