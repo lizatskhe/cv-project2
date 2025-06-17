@@ -51,4 +51,6 @@ https://drive.google.com/file/d/16mWUoUlmtfPbjMl7lCmlURSH-qmGe1uN/view?usp=shari
       pgd_results_eps_0.0001.pt
       pgd_results_eps_0.0005.pt
 ```
+## Authors
 
+Najeh Alhalawani (2223737) & Yelizaveta Tskhe (224260)
